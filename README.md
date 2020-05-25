@@ -1,11 +1,11 @@
 # currency-convertor-Tkinter
 Currency convertor using Tkinter Python
 
-Prerequisite:
-          Tkinter in your sysytem
-          Sql lite in your system
-          ttkthemes library
-          
+          Prerequisite:
+                    Tkinter in your sysytem
+                    Sql lite in your system
+                    ttkthemes library
+
           for tkinter run this on command line : https://tkdocs.com/tutorial/install.html refer this link for installation
           for sql lite : 
                   Install SQLite on Windows
